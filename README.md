@@ -3,9 +3,9 @@ Ceci est un simple bot programmé en Python qui tout les jours entre minuit et u
 
 # Dépendances
 - Python (>= 3.2)
-- [Spotipy](https://github.com/plamere/spotipy) (>= 2.11.1)
-- [Pytz](https://pythonhosted.org/pytz) (>= 2019.3)
-- [Redis](https://github.com/andymccurdy/redis-py) (>= 3.2.1)
+- [spotipy](https://github.com/plamere/spotipy) (>= 2.11.1)
+- [pytz](https://launchpad.net/pytz) (>= 2019.3)
+- [redis](https://github.com/andymccurdy/redis-py) (>= 3.2.1)
 
 
 # Misc
